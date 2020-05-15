@@ -1,6 +1,7 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
 
+//plz dont :(
 var firebaseConfig = {
 	apiKey: 'AIzaSyC039f2FA8E_0HvUsfJE2PbBa3VoE6e0L4',
 	authDomain: 'todo-vuetify-fb908.firebaseapp.com',
